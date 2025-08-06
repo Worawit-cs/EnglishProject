@@ -1,0 +1,13 @@
+ชื่อ ไอซ์
+- 1 (introduce)
+- 4 (How does it work)
+ขื่อ ต้น
+- 5 (main component)
+- 7 (advantage)
+ชื่อ วิช
+- 2 (what is it made of)
+- 3 (What is its shape and dimensions)
+- 9 (Express your opinion)
+ชื่อ ตัง
+- 6 (What is it used fo)
+- 8 (limitation)
